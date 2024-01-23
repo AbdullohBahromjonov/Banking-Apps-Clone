@@ -12,6 +12,7 @@ struct Banks_cloneApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .preferredColorScheme(.dark)
         }
     }
 }
