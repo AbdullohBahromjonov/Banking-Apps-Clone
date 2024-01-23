@@ -1,1 +1,1 @@
-Banking and Payments apps clone 💸 (Only for Uzbekistan)
+### Banking and Payments apps clone 💸 (Only for Uzbekistan)
