@@ -11,6 +11,7 @@
 		E551DB9B2B6008EA0064629F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E551DB9A2B6008EA0064629F /* ContentView.swift */; };
 		E551DB9D2B6008EC0064629F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E551DB9C2B6008EC0064629F /* Assets.xcassets */; };
 		E551DBA02B6008EC0064629F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E551DB9F2B6008EC0064629F /* Preview Assets.xcassets */; };
+		E551DBA72B602EB80064629F /* UzumBankSimpleCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = E551DBA62B602EB80064629F /* UzumBankSimpleCheck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E551DB9A2B6008EA0064629F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E551DB9C2B6008EC0064629F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E551DB9F2B6008EC0064629F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E551DBA62B602EB80064629F /* UzumBankSimpleCheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UzumBankSimpleCheck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E551DB982B6008EA0064629F /* Banks_cloneApp.swift */,
 				E551DB9A2B6008EA0064629F /* ContentView.swift */,
+				E551DBA62B602EB80064629F /* UzumBankSimpleCheck.swift */,
 				E551DB9C2B6008EC0064629F /* Assets.xcassets */,
 				E551DB9E2B6008EC0064629F /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E551DB9B2B6008EA0064629F /* ContentView.swift in Sources */,
+				E551DBA72B602EB80064629F /* UzumBankSimpleCheck.swift in Sources */,
 				E551DB992B6008EA0064629F /* Banks_cloneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,7 +276,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Banks clone/Preview Content\"";
-				DEVELOPMENT_TEAM = 6J9XRFD286;
+				DEVELOPMENT_TEAM = U6GM37S848;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -301,7 +305,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Banks clone/Preview Content\"";
-				DEVELOPMENT_TEAM = 6J9XRFD286;
+				DEVELOPMENT_TEAM = U6GM37S848;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
